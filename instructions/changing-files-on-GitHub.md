@@ -7,4 +7,4 @@
 5. Choose **Commit directly to `your` branch. - We can do this because GitHub already recognizes that this file only exists on this branch.
 6. Click **Commit changes**.
 7. Done ;)
-8. 
+8.
